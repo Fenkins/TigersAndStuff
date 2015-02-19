@@ -112,7 +112,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-//these two guys doing all the work
+//these two guys doing all the work =)
     func updateAnimal (){
         switch currentAnimal {
         case("Tiger",_):
