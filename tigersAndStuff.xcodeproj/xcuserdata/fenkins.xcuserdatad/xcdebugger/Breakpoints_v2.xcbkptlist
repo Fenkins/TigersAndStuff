@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tigersAndStuff/ViewController.swift"
+            timestampString = "445885012.249818"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tigersAndStuff.ViewController.currentIndex.setter : Swift.Int"
+                  moduleName = "tigersAndStuff"
+                  urlString = "file:///Users/fenkins/Documents/Swift%20trainings/tigersAndStuff/tigersAndStuff/tigersAndStuff/ViewController.swift"
+                  timestampString = "445467011.183266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tigersAndStuff.ViewController.currentIndex.materializeForSet : Swift.Int"
+                  moduleName = "tigersAndStuff"
+                  urlString = "file:///Users/fenkins/Documents/Swift%20trainings/tigersAndStuff/tigersAndStuff/tigersAndStuff/ViewController.swift"
+                  timestampString = "445467011.183519"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tigersAndStuff.ViewController.init (tigersAndStuff.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; tigersAndStuff.ViewController"
+                  moduleName = "tigersAndStuff"
+                  urlString = "file:///Users/fenkins/Documents/Swift%20trainings/tigersAndStuff/tigersAndStuff/tigersAndStuff/ViewController.swift"
+                  timestampString = "445467011.183802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "422">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tigersAndStuff.ViewController.init (tigersAndStuff.ViewController.Type)() -&gt; tigersAndStuff.ViewController"
+                  moduleName = "tigersAndStuff"
+                  urlString = "file:///Users/fenkins/Documents/Swift%20trainings/tigersAndStuff/tigersAndStuff/tigersAndStuff/ViewController.swift"
+                  timestampString = "445467011.18403"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tigersAndStuff.ViewController.init (tigersAndStuff.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; tigersAndStuff.ViewController"
+                  moduleName = "tigersAndStuff"
+                  urlString = "file:///Users/fenkins/Documents/Swift%20trainings/tigersAndStuff/tigersAndStuff/tigersAndStuff/ViewController.swift"
+                  timestampString = "445467011.184235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "459">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
