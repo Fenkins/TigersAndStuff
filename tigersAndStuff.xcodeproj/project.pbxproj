@@ -11,6 +11,7 @@
 		AA0E69B21A8AABF30065E92D /* indo-levon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0E69B11A8AABF30065E92D /* indo-levon.jpg */; };
 		AA0E69B41A8AACF90065E92D /* malaya-henzy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0E69B31A8AACF90065E92D /* malaya-henzy.jpg */; };
 		AA0E69B61A8AADA40065E92D /* siberian-sparky.png in Resources */ = {isa = PBXBuildFile; fileRef = AA0E69B51A8AADA30065E92D /* siberian-sparky.png */; };
+		AA21325A1A9CD2720085428C /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2132591A9CD2720085428C /* Entitlements.plist */; };
 		AA873D231A934FF8001D2857 /* Lion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA873D221A934FF8001D2857 /* Lion.swift */; };
 		AA873D261A9389A8001D2857 /* Lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA873D241A9389A8001D2857 /* Lion.jpg */; };
 		AA873D271A9389A8001D2857 /* Lioness.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA873D251A9389A8001D2857 /* Lioness.jpg */; };
@@ -41,6 +42,7 @@
 		AA0E69B11A8AABF30065E92D /* indo-levon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "indo-levon.jpg"; sourceTree = "<group>"; };
 		AA0E69B31A8AACF90065E92D /* malaya-henzy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "malaya-henzy.jpg"; sourceTree = "<group>"; };
 		AA0E69B51A8AADA30065E92D /* siberian-sparky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "siberian-sparky.png"; sourceTree = "<group>"; };
+		AA2132591A9CD2720085428C /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Entitlements.plist; path = ../Entitlements.plist; sourceTree = "<group>"; };
 		AA873D221A934FF8001D2857 /* Lion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lion.swift; sourceTree = "<group>"; };
 		AA873D241A9389A8001D2857 /* Lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lion.jpg; sourceTree = "<group>"; };
 		AA873D251A9389A8001D2857 /* Lioness.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lioness.jpg; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				AAB154671A8A9ECA0048B18C /* Main.storyboard */,
 				AAB1546A1A8A9ECA0048B18C /* Images.xcassets */,
 				AAB1546C1A8A9ECA0048B18C /* LaunchScreen.xib */,
+				AA2132591A9CD2720085428C /* Entitlements.plist */,
 				AAB154611A8A9ECA0048B18C /* Supporting Files */,
 			);
 			path = tigersAndStuff;
@@ -241,6 +244,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA21325A1A9CD2720085428C /* Entitlements.plist in Resources */,
 				AAB154691A8A9ECA0048B18C /* Main.storyboard in Resources */,
 				AA873D261A9389A8001D2857 /* Lion.jpg in Resources */,
 				AA873D2D1A93AA48001D2857 /* LionCub1.jpg in Resources */,
@@ -332,7 +336,9 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_ENTITLEMENTS = "/Users/fenkins/Documents/Swift trainings/tigersAndStuff/tigersAndStuff/Entitlements.plist";
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "-";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -375,7 +381,9 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_ENTITLEMENTS = "/Users/fenkins/Documents/Swift trainings/tigersAndStuff/tigersAndStuff/Entitlements.plist";
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "-";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
